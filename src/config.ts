@@ -39,7 +39,6 @@ export const siteConfig: SiteConfig = {
 
 export const navBarConfig: NavBarConfig = {
   links: [
-    LinkPreset.Home,
     LinkPreset.Archive,
     LinkPreset.About,
     {
@@ -63,9 +62,9 @@ export const profileConfig: ProfileConfig = {
       url: 'https://twitter.com/Cypher0041',
     },
     {
-      name: 'Steam',
-      icon: 'fa6-brands:steam',
-      url: 'https://store.steampowered.com',
+      name: 'LinkedIn',
+      icon: 'fa6-brands:linkedin',
+      url: 'www.linkedin.com/in/jayanth-sreejith',
     },
     {
       name: 'GitHub',
