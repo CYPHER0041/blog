@@ -73,7 +73,7 @@ Verify that it is working with `docker info -f '{{.DriverStatus }}'` should retu
 This built the image but it did not work on my Mac with a command not found error. (I'm stupid, found out later that I need to use docker load and not docker import, try this again)
 Installed docker desktop on linux and trying a build there. The resulting image works on mac with just docker save and docker load (no additional flags for either)
 
-References:
+## References:
 1. https://docs.docker.com/build/building/multi-platform/
 2. https://nitinayyagari.com/posts/building-multi-arch-docker-images/
 3. https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/#tips-for-everyday-use
