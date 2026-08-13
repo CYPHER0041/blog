@@ -5,7 +5,7 @@ description: 'Monitoring for my home server'
 image: ''
 tags:
 - self-hosted
-category: ''
+category: 'Monitoring'
 draft: false
 lang: ''
 ---

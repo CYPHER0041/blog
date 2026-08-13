@@ -5,7 +5,7 @@ description: 'How I recovered from a disk failure'
 image: ''
 tags:
 - self-hosted
-category: ''
+category: 'Homelab'
 draft: false
 lang: ''
 ---

@@ -3,7 +3,8 @@ title: My Self Hosting Journey
 published: 2025-06-06
 description: 'An overview of my self hosting journey thus far and where I am going with it in the future'
 image: ''
-tags: [Selfhosted,Blog]
+tags:
+- self-hosted
 category: 'Tech'
 draft: false 
 ---

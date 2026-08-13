@@ -3,7 +3,8 @@ title: Diving into self-hosted game streaming
 published: 2026-05-15
 description: 'Playing games from my home PC anywhere in the world!'
 image: ''
-tags: [game streaming]
+tags:
+- game-streaming
 category: 'Tech'
 draft: false 
 lang: ''
