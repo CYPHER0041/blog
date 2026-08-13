@@ -1,13 +1,17 @@
 # build output
 dist/
+__pycache__
 
 #editor files
 .vscode
+*.py
 # generated types
 .astro/
 
 # dependencies
 node_modules/
+.venv
+requirements.txt
 
 # logs
 npm-debug.log*
