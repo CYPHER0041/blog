@@ -25,7 +25,6 @@ Some pre-requisites:
 Setting up sunshine on Windows is super easy. 
 1. Go to the [Github](https://github.com/LizardByte/Sunshine) and pick the latest windows release (Use the full installer instead of the portable version as the docs say that you get better performance with the former)
 2. Download and install [ViGEMBus](https://github.com/nefarius/ViGEmBus/releases) as this is required by sunshine for controller support
-![Screenshot](src/assets/images/Remote_Streaming/1.png)
 3. Install Sunshine and setup the username and password.
 4. Configure any options if required in the configuration menu (defaults are fine too)
 ## Installing Tailscale
